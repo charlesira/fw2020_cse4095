@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Used tutorials:
+
+https://mherman.org/blog/dockerizing-a-react-app/
+https://nodejs.org/en/docs/guides/nodejs-docker-webapp/
+
+
 ## Available Scripts
 
 In the project directory, you can run:
